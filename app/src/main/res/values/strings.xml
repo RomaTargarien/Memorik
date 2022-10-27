@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Memorik</string>
+
+    //OnBoarding Main screen
+    <string name="on_boarding_main_screen_log_in">Log in</string>
+    <string name="on_boarding_main_screen_continue">Continue</string>
+
+    //OnBoarding First screen
+    <string name="on_boarding_first_screen_explore">Explore Memorik.app now</string>
+    <string name="on_boarding_first_screen_explore_subtitle">Share moments with your best friends all around the world</string>
+
+    //OnBoarding Third screen
+    <string name="on_boarding_third_screen_explore">Stay up to date</string>
+    <string name="on_boarding_third_screen_explore_subtitle">Turn on notifications and don"'"t miss updates from your friends</string>
+
+    //Authentication screen
+    <string name="authentication_screen_log_in">Log in</string>
+    <string name="authentication_screen_sign_up">Sign Up</string>
+    <string name="authentication_screen_username">Username</string>
+    <string name="authentication_screen_password">Password</string>
+    <string name="authentication_screen_email">Email</string>
+    <string name="authentication_screen_forgot_password">Forgot Password?</string>
+
+    //Forgot password screen
+    <string name="forgot_password_screen_forgot_password">Forgot Password?</string>
+    <string name="forgot_password_screen_instructions">Enter the email associated with your account and
+        we will send an email with instructions to reset your password</string>
+    <string name="forgot_password_screen_email_address">Email address</string>
+    <string name="forgot_password_screen_email">Email</string>
+    <string name="forgot_password_screen_reset">Reset</string>
+
+    //Success reset password screen
+    <string name="success_reset_password_check_your_email">Check your email</string>
+    <string name="success_reset_password_instructions">We have send a password recover \n instructions to your email</string>
+    <string name="success_reset_password_open_email">Open email app</string>
+    <string name="success_reset_password_skip">Skip, I"'"ll confirm it latter</string>
+    <string name="success_reset_password_check_spam_filter">Did not receive the email? Check your spam filter, \n or</string>
+    <string name="success_reset_password_try_another_email_address">try another email address</string>
+
+    //MockData Authentication
+    <string name="authentication_username">Roma</string>
+    <string name="authentication_password">1111063</string>
+    <string name="authentication_email">tolstikovski@mail.ru</string>
+
+</resources>
